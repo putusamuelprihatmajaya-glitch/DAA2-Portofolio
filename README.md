@@ -58,9 +58,9 @@ DAA2-Portofolio/
 
 
 ## 🚀 Cara Menjalankan Kode
-```bash
+
 # Clone repository ini
-git clone https://github.com/[username-saya]/DAA2-Portofolio.git
+git clone https://github.com/putusamuelprihatmajaya/DAA2-Portofolio.git
 
 # Masuk ke folder
 cd DAA2-Portofolio
@@ -69,7 +69,7 @@ cd DAA2-Portofolio
 python DP/knapsack.py
 
 📫 Kontak
-GitHub: github.com/putusamuel
+GitHub: github.com/putusamuelprihatmajaya
 Email: putu@stikmyos.ac.id
 
 LinkedIn: [opsional]
@@ -77,20 +77,3 @@ LinkedIn: [opsional]
 Repository ini dibuat untuk memenuhi tugas mata kuliah Desain dan Analisis Algoritma II.
 Dosen Pengampu: Putu Samuel Prihatmajaya, M.Kom
 *STIKOM Yos Sudarso Purwokerto - 2026*
-
-
----
-
-## 📌 Cara Penggunaan untuk Mahasiswa
-
-| Langkah | Instruksi |
-|---------|-----------|
-| 1 | Copy semua teks di atas |
-| 2 | Ganti `[Nama Mahasiswa]` dengan nama sendiri |
-| 3 | Ganti `[NIM]` dengan NIM sendiri |
-| 4 | Ganti `[username-saya]` dengan username GitHub mereka |
-| 5 | Ganti `[email kampus]` dengan email sendiri |
-| 6 | Hapus atau tambah baris yang tidak sesuai |
-| 7 | Paste ke file `README.md` di repository GitHub |
-
----
